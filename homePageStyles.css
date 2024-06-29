@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.headline {
+  color: #e39ec1;
+}
+
+#head {
+  height: 99px;
+  background-color: #2f323a;
+  display: flex;
+  color: white;
+}
+
+#titlezone {
+  background-color: #e39ec1;
+  height: 524px;
+  display: flex;
+}
+
+#title {
+  text-align: center;
+}
